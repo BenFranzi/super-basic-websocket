@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "npm run server",
-    "server": "node app.js",
+    "server": "node server.js",
     "client": "node client.js"
   }
 }
